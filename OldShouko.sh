@@ -12,4 +12,4 @@ yes | pkg i python-pip
 pip install requests rich prettytable pytz
 export CFLAGS="-Wno-error=implicit-function-declaration"
 pip install psutil
-curl -Ls "https://raw.githubusercontent.com/nganneconfig/rejoinshouko/refs/heads/main/Shouko_update.py" -o /sdcard/Download/OldShouko.py
+curl -Ls "https://raw.githubusercontent.com/nganneconfig/rejoinshouko/refs/heads/main/Shouko_update.py" -o /sdcard/Download/Shouko_update.py
